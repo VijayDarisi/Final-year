@@ -1,0 +1,9 @@
+0 Abrasions
+1 Bruises
+2 Burns
+3 Cut
+4 Diabetic wound
+5 Laseration
+6 Normal
+7 Pressure wounds
+8 Venous
